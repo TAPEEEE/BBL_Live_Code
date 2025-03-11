@@ -45,3 +45,6 @@ port 8080
 
 - **Service**:
   - `UserService`
+
+- UnitTest
+  - `userServiceTest`
